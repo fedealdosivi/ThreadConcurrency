@@ -26,7 +26,7 @@ public class Consumer implements Runnable {
             }
         }
         catch (InterruptedException e){
-            e.printStackTrace();
+            System.out.println(Thread.currentThread().getName() + " was interrupted");
         }
     }
 }
