@@ -1,4 +1,4 @@
-package Unsafe;
+package Runnable.Unsafe;
 
 public class Main {
     public static void main(String[] args) {

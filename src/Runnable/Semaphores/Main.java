@@ -1,4 +1,4 @@
-package Semaphores;
+package Runnable.Semaphores;
 
 import java.util.LinkedList;
 import java.util.Queue;

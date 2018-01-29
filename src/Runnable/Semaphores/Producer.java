@@ -1,4 +1,4 @@
-package Semaphores;
+package Runnable.Semaphores;
 
 import java.util.Queue;
 import java.util.concurrent.Semaphore;

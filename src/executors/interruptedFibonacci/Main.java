@@ -30,7 +30,7 @@ public class Main {
                 executor.awaitTermination(WAITING_TIME,TimeUnit.SECONDS);
             }
         }catch (InterruptedException e){
-            System.out.println("Main thread was interrupted");
+            System.out.println("Main thread was Runnable.interrupted");
             e.printStackTrace();
         }finally {
             if (!executor.isTerminated()){

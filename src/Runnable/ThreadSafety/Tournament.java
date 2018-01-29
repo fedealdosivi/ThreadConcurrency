@@ -1,4 +1,4 @@
-package ThreadSafety;
+package Runnable.ThreadSafety;
 
 import java.util.ArrayList;
 import java.util.List;

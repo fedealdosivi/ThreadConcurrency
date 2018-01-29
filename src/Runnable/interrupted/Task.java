@@ -1,4 +1,4 @@
-package interrupted;
+package Runnable.interrupted;
 
 public class Task implements Runnable {
     @Override

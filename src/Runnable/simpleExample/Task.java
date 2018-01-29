@@ -1,4 +1,4 @@
-package simpleExample;
+package Runnable.simpleExample;
 
 public class Task implements Runnable {
     @Override

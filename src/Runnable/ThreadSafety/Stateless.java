@@ -1,4 +1,4 @@
-package ThreadSafety;
+package Runnable.ThreadSafety;
 
 public class Stateless {
 

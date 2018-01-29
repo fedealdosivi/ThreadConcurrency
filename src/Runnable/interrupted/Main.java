@@ -1,4 +1,4 @@
-package interrupted;
+package Runnable.interrupted;
 
 public class Main {
     public static void main(String[] args) {

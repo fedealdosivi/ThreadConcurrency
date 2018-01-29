@@ -1,4 +1,4 @@
-package Semaphores;
+package Runnable.Semaphores;
 
 import java.util.Queue;
 import java.util.concurrent.Semaphore;
@@ -26,7 +26,7 @@ public class Consumer implements Runnable {
             }
         }
         catch (InterruptedException e){
-            System.out.println(Thread.currentThread().getName() + " was interrupted");
+            System.out.println(Thread.currentThread().getName() + " was Runnable.interrupted");
         }
     }
 }

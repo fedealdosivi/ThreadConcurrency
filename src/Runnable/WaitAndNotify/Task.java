@@ -1,4 +1,4 @@
-package WaitAndNotify;
+package Runnable.WaitAndNotify;
 
 public class Task implements Runnable {
 

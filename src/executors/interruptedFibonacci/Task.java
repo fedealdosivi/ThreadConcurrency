@@ -14,7 +14,7 @@ public class Task implements Runnable{
             num=veryInefficientFibonacci(num);
             System.out.println(Thread.currentThread().getName() + " obtained " + num);
         }catch (InterruptedException e){
-            System.out.println(Thread.currentThread().getName()+ " was interrupted.");
+            System.out.println(Thread.currentThread().getName()+ " was Runnable.interrupted.");
         }
     }
 
