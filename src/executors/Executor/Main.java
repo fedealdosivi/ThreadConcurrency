@@ -1,4 +1,4 @@
-package Executor;
+package executors.Executor;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledThreadPoolExecutor;
@@ -29,7 +29,7 @@ public class Main {
 
         sleep(WAIT,TimeUnit.SECONDS);
         executor.shutdown();
-        System.out.println("Executor was terminated");
+        System.out.println("executors.Executor was terminated");
     }
 
     private static void sleep(long wait, TimeUnit seconds) {
