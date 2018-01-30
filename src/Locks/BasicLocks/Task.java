@@ -1,4 +1,4 @@
-package Locks;
+package Locks.BasicLocks;
 
 import java.util.concurrent.Callable;
 

@@ -1,4 +1,4 @@
-package executors.AtomicObjects;
+package Locks.AtomicObjects;
 
 import java.util.concurrent.atomic.AtomicLong;
 
